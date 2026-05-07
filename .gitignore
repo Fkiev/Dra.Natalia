@@ -1,0 +1,30 @@
+# Dependencias / build (nao usado, mas previne sujeira)
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Vercel
+.vercel/
+.env*.local
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Backups
+*.bak
+*.tmp
+*~
